@@ -42,7 +42,7 @@ A responsive React app to explore and discover companies worldwide, featuring se
 
 Open http://localhost:5173 in your browser to view the app.
 
-Usage
+## Usage
 
   - Use the search bar to find companies by name, description, or location.
 
@@ -53,3 +53,11 @@ Usage
   - Toggle between grid and table view using the ViewToggle.
 
   - Navigate through pages with the Pagination component.
+
+## Screenshot
+
+<img width="1899" height="908" alt="image" src="https://github.com/user-attachments/assets/f32ab7f0-5c87-472e-a704-8d36a58440a7" />
+
+<img width="1896" height="907" alt="image" src="https://github.com/user-attachments/assets/f09d50ac-3e14-4acc-a735-0517e71a5037" />
+
+
